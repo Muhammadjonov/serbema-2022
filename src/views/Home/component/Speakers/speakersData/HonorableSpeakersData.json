@@ -1,0 +1,98 @@
+[
+  {
+    "name":{
+    "en":"Naveen Arora",
+    "ru":"Навин Арора",
+    "uz":"Naveen Arora"
+  },
+  "university":{
+    "en":"Babasaheb Bhimrao Ambedkar University",
+    "ru":"Бабасахиб Бимрао Университет Амбедкара",
+    "uz":"Babasaheb Bhimrao Ambedkar universiteti"
+  },
+  "country":{
+    "en":"Lucknow, India",
+    "ru":"Лакхнау, Индия",
+    "uz":"Lucknow, Hindiston"
+  },
+  "degree":{
+    "en":"PhD, Professor",
+    "ru":"Д.Ф.Н., Профессор",
+    "uz":"PhD, Professor"
+  },
+    "img": "/assets/img/Naveen.jpg",
+    "toUrl": "https://www.researchgate.net/profile/Naveen-Arora-7"
+  },
+  {
+      "name":{
+    "en":"Yoshiharu Fujii",
+    "ru":"Зенджи Фуджи",
+    "uz":"Yoshiharu Fujii"
+  },
+  "university":{
+    "en":"Tokyo University of Agriculture and Technology",
+    "ru":"Токийский университет сельского хозяйства и технологий",
+    "uz":"Tokio qishloq xo'jaligi va texnologiya universiteti"
+  },
+  "country":{
+    "en":"Tokyo, Japan",
+    "ru":"Токио, Япония",
+    "uz":"Tokio, Yaponiya"
+  },
+  "degree":{
+    "en":"PhD, Professor",
+    "ru":"Д.Ф.Н., Профессор",
+    "uz":"PhD, Professor"
+  },
+  "img": "/assets/img/Yoshiharu.jpg",
+    "toUrl": "https://www.researchgate.net/profile/Yoshiharu-Fujii"
+  },
+  {
+      "name":{
+    "en":"Amir Kassam",
+    "ru":"Амир Кассам",
+    "uz":"Amir Kassam"
+  },
+  "university":{
+    "en":"University of Reading · School of Agriculture",
+    "ru":"Университет Рединга · Школа сельского хозяйства",
+    "uz":"Reading universiteti • Qishloq xo'jaligi maktabi"
+  },
+  "country":{
+    "en":"Berkshire, United Kingdom",
+    "ru":"Беркшир, Великобритания",
+    "uz":"Berkshire, Buyuk Britaniya"
+  },
+  "degree":{
+    "en":"PhD, Professor",
+    "ru":"Д.Ф.Н., Профессор",
+    "uz":"PhD, Professor"
+  },
+    "img": "/assets/img/Kassam.jpg",
+    "toUrl": "https://www.researchgate.net/profile/Amir-Kassam"
+  },
+  {
+    "name":{
+    "en":"",
+    "ru":"",
+    "uz":""
+  },
+  "university":{
+    "en":"",
+    "ru":"",
+    "uz":""
+  },
+  "country":{
+    "en":"",
+    "ru":"",
+    "uz":""
+  },
+  "degree":{
+    "en":"",
+    "ru":"",
+    "uz":""
+  },
+    "img": "",
+    "toUrl": ""
+  }
+]

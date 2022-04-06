@@ -1,0 +1,338 @@
+[
+  {
+    "name": {
+      "en": "Giorgi Ghambashidze",
+      "ru": "Георгий Гамбашидзе",
+      "uz": "Giorgi Ghambashidze"
+    },
+    "university": {
+      "en": "Agricultural University of Georgia",
+      "ru": "Сельскохозяйственный университет Грузии",
+      "uz": "Gruziya qishloq xo’jalik universiteti"
+    },
+    "country": {
+      "en": "Tbilisi, Georgia",
+      "ru": "Тбилиси, Грузия",
+      "uz": "Tbilisi, Gruziya"
+    },
+    "degree": {
+      "en": "PhD, Professor",
+      "ru": "Д.Ф.Н., Профессор",
+      "uz": "PhD, Professor"
+    },
+    "img": "/assets/img/Giorgi.jpg",
+    "toUrl": "https://www.researchgate.net/profile/Giorgi-Ghambashidze"
+  },
+  {
+    "name": {
+      "en": "Horea Cacovean",
+      "ru": "Хорея Каковеан",
+      "uz": "Horea kakovan"
+    },
+    "university": {
+      "en": "University of Agricultural Sciences and Veterinary Medicine",
+      "ru": "Университет сельскохозяйственных наук и ветеринарной медицины",
+      "uz": "Qishloq xo`jalik fanlari va veterinarya tabobati universiteti"
+    },
+    "country": {
+      "en": "Napoca, Romania",
+      "ru": "Напока, Румыния",
+      "uz": "Napoca, Ruminiya"
+    },
+    "degree": {
+      "en": "PhD, Professor",
+      "ru": "Д.Ф.Н., Профессор",
+      "uz": "PhD, Professor"
+    },
+    "img": "/assets/img/Horea.jpg",
+    "toUrl": "https://www.researchgate.net/profile/Horea-Cacovean"
+  },
+  {
+    "name": {
+      "en": "Rusu Teodor",
+      "ru": "Русу Теодор",
+      "uz": "Rusu Teodor"
+    },
+    "university": {
+      "en": "University of Agricultural Sciences and Veterinary Medicine",
+      "ru": "Университет сельскохозяйственных наук и ветеринарной медицины",
+      "uz": "Qishloq xo`jalik fanlari va veterinarya tabobati universiteti"
+    },
+    "country": {
+      "en": "Napoca, Romania",
+      "ru": "Напока, Румыния",
+      "uz": "Napoca, Ruminiya"
+    },
+    "degree": {
+      "en": "PhD, Professor",
+      "ru": "Д.Ф.Н., Профессор",
+      "uz": "PhD, Professor"
+    },
+    "img": "/assets/img/Rusu.jpg",
+    "toUrl": "https://www.researchgate.net/profile/Rusu-Teodor"
+  },
+  {
+    "name": {
+      "en": "Yoshiko Kawabata",
+      "ru": "Йошико Кавабата",
+      "uz": "Yoshiko Kawabata"
+    },
+    "university": {
+      "en": "Tokyo University of Agriculture and Technology, TUAT",
+      "ru": "Токийский университет сельского хозяйства и технологий",
+      "uz": "Tokio Qishloq Xo’jaligi Va Texnologiya Universiteti"
+    },
+    "country": {
+      "en": "Tokyo, Japan",
+      "ru": "Токио, Япония",
+      "uz": "Tokio, Yaponiya"
+    },
+    "degree": {
+      "en": "PhD, Professor",
+      "ru": "Д.Ф.Н., Профессор",
+      "uz": "PhD, Professor"
+    },
+    "img": "/assets/img/Yoshiko.png",
+    "toUrl": "https://www.researchgate.net/profile/Yoshiko-Kawabata"
+  },
+  {
+    "name": {
+      "en": "Elena Shamrikova",
+      "ru": "Елена Шамрикова",
+      "uz": "Yelena Shamrikova"
+    },
+    "university": {
+      "en": "Institute of Biology of Komi Science Centre of the Ural Branch of the Russian Academy of Sciences",
+      "ru": "Институт биологии Коми научного центра Уральского отделения Российской академии наук.",
+      "uz": "Rossiya Fanlar akademiyasining Ural filiali Komi ilmiy markazi Biologiya instituti"
+    },
+    "country": {
+      "en": "SYKTYVKAR, KOMI REPUBLIC, RUSSIA",
+      "ru": "СИКТЫВКАР, РЕСПУБЛИКА КОМИ, РОССИЯ",
+      "uz": "Siktivkar, Komi Respublikasi, Rossiya"
+    },
+    "degree": {
+      "en": "DSc, Professor",
+      "ru": "Д.Т.Н, Профессор",
+      "uz": "DSc, Professor"
+    },
+    "img": "/assets/img/Elena.jpg",
+    "toUrl": "https://www.researchgate.net/profile/Elena-Shamrikova-2"
+  },
+  {
+    "name": {
+      "en": "Alisher Mirzabaev",
+      "ru": "Алишер Мирзабаев",
+      "uz": "Alisher mirzabaev"
+    },
+    "university": {
+      "en": "UNIVERSITY OF BONN | UNI BONN",
+      "ru": "БОННСКИЙ УНИВЕРСИТЕТ | УНИ БОНН",
+      "uz": "Bonn universiteti | UNI BONN"
+    },
+    "country": {
+      "en": "BONN, GERMANY",
+      "ru": "БОНН, ГЕРМАНИЯ",
+      "uz": "Bonn, Germaniya"
+    },
+    "degree": {
+      "en": "PhD, Professor",
+      "ru": "Д.Ф.Н., Профессор",
+      "uz": "PhD, Professor"
+    },
+    "img": "assets/img/Alisher.png",
+    "toUrl": "https://www.researchgate.net/profile/Alisher-Mirzabaev"
+  },
+  {
+    "name": {
+      "en": "Olena Dubovyk",
+      "ru": "Елена Дубовик",
+      "uz": "OlenIKOMI SCIENTIFIC CENTERa Dubovik"
+    },
+    "university": {
+      "en": "UNIVERSITY OF BONN | UNI BONN (ZFL)",
+      "ru": "БОННСКИЙ УНИВЕРСИТЕТ | УНИ БОНН (ZFL)",
+      "uz": "Bonn universiteti | UNI BONN (zfl)"
+    },
+    "country": {
+      "en": "BONN, GERMANY",
+      "ru": "БОНН, ГЕРМАНИЯ",
+      "uz": "Bonn, Germaniya"
+    },
+    "degree": {
+      "en": "PhD, Professor",
+      "ru": "Д.Ф.Н., Профессор",
+      "uz": "PhD, Professor"
+    },
+    "img": "/assets/img/Olena.jpg",
+    "toUrl": "https://www.researchgate.net/profile/Olena-Dubovyk"
+  },
+  {
+    "name": {
+      "en": "Dr.ZEYNEP DEMİR",
+      "ru": "Др.ЗЕЙНЕП ДЕМИР",
+      "uz": "Dr.Zeynep Demir"
+    },
+    "university": {
+      "en": "REPUBLIC OF TURKEY MINISTRY OF AGRICULTURE AND FORESTRY-SOIL",
+      "ru": "Министерство сельского, почвенного и лесного хозяйства Турецкой Республики",
+      "uz": "Turkiya Respublikasi Qishloq Xo’jaligi Va O’rmon-Tuproq Xo’jaligi Vazirligi"
+    },
+    "country": {
+      "en": "ANKARA, TURKEY",
+      "ru": "АНКАРА, ТУРЦИЯ",
+      "uz": "Ankara, Turkiya"
+    },
+    "degree": {
+      "en": "PhD, Professor",
+      "ru": "Д.Ф.Н., Профессор",
+      "uz": "PhD, Professor"
+    },
+    "img": "/assets/img/Demir.jpg",
+    "toUrl": "https://www.researchgate.net/profile/Zeynep-Demir-10"
+  },
+  {
+    "name": {
+      "en": "Mikhail Mazirov",
+      "ru": "Мазиров Михаил",
+      "uz": "Mixail Mazirov"
+    },
+    "university": {
+      "en": "Russian State Agrarian University - Moscow Timiryazev Agricultural Academy",
+      "ru": "РОССИЙСКИЙ ГОСУДАРСТВЕННЫЙ АГРАРНЫЙ УНИВЕРСИТЕТ -МСХА ИМЕНИ К.А. ТИМИРЯЗЕВА",
+      "uz": "Rossiya davlat agrar universiteti k.a. Timirzayev nomidagi moskva qishloq xo’jaligi akademiyasi"
+    },
+    "country": {
+      "en": "Moscow, Russia",
+      "ru": "Москва, Россия",
+      "uz": "Moskva, Rossiya"
+    },
+    "degree": {
+      "en": "PhD, Professor",
+      "ru": "Д.Ф.Н., Профессор",
+      "uz": "PhD, Professor"
+    },
+    "img": "/assets/img/Mikhail.jpg",
+    "toUrl": "http://old.timacad.ru/catalog/pps/detail.php?ID=1417"
+  },
+  {
+    "name": {
+      "en": "Pyotr Sapojnikov",
+      "ru": "Пётр Сапожников",
+      "uz": "Pyotr Sapozhnikov"
+    },
+    "university": {
+      "en": "M.V. Lomonosov Moscow State University",
+      "ru": "МГУ им .М.В.Ломоносов",
+      "uz": "M.V. Lomonosov nomidagi Moskva Davlat Universiteti"
+    },
+    "country": {
+      "en": "Moscow, Russia",
+      "ru": "Москва, Россия",
+      "uz": "Moskva, Rossiya"
+    },
+    "degree": {
+      "en": "PhD, Professor",
+      "ru": "Д.Ф.Н., Профессор",
+      "uz": "PhD, Professor"
+    },
+    "img": "/assets/img/Pyotr.jpg",
+    "toUrl": "https://www.scopus.com/authid/detail.uri?authorId=6603560652"
+  },
+  {
+    "name": {
+      "en": "Astghik Sukiasyan",
+      "ru": "Астхик Сукиасян",
+      "uz": "Astxik Sukiasyan"
+    },
+    "university": {
+      "en": "NATIONAL POLYTECHNIC UNIVERSITY OF ARMENIA",
+      "ru": "НАЦИОНАЛЬНЫЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ АРМЕНИИ",
+      "uz": "Armaniston Milliy Politexnika Universiteti"
+    },
+    "country": {
+      "en": "Yerevan, Armenia",
+      "ru": "Ереван, Армения",
+      "uz": "Yerevan, Armaniston"
+    },
+    "degree": {
+      "en": "PhD, Professor",
+      "ru": "Д.Ф.Н., Профессор",
+      "uz": "PhD, Professor"
+    },
+    "img": "/assets/img/Astghik.jpg",
+    "toUrl": "https://orcid.org/0000-0001-5549-3146"
+  },
+  {
+    "name": {
+      "en": "Moniko Zovko",
+      "ru": "Монико Зовко",
+      "uz": "Moniko Zovko"
+    },
+    "university": {
+      "en": "University of Zagreb",
+      "ru": "Загребский Университет",
+      "uz": "Zagreb universiteti"
+    },
+    "country": {
+      "en": "Zagreb, Croatia",
+      "ru": "Загреб, Хорватия",
+      "uz": "Zagreb, Xorvatiya"
+    },
+    "degree": {
+      "en": "PhD, Professor",
+      "ru": "Д.Ф.Н., Профессор",
+      "uz": "PhD, Professor"
+    },
+    "img": "/assets/img/Monika.jpg",
+    "toUrl": "https://www.researchgate.net/profile/Monika-Zovko"
+  },
+  {
+    "name": {
+      "en": "Dr Emilio J. Gonzalez-Sanchez",
+      "ru": "Др. Эмилио Х. Гонсалес-Санчес",
+      "uz": "Dr. EMILIO J. GONSALES-SANCHES"
+    },
+    "university": {
+      "en": "ETSIAM-University of Cordoba",
+      "ru": "ETSIAM-Университет Кордовы",
+      "uz": "ETSIAM - Kordoba Universiteti"
+    },
+    "country": {
+      "en": "CORDOBA, SPAIN",
+      "ru": "КОРДОБА, ИСПАНИЯ",
+      "uz": "Kordoba, Ispaniya"
+    },
+    "degree": {
+      "en": "PhD, Professor",
+      "ru": "Д.Ф.Н., Профессор",
+      "uz": "PhD, Professor"
+    },
+    "img": "/assets/img/Emilio.png",
+    "toUrl": "https://www.researchgate.net/profile/Emilio-Gonzalez-Sanchez-2"
+  },
+  {
+    "name": {
+      "en": "Savin Igor Yurievich",
+      "ru": "Савин Игорь Юрьевич",
+      "uz": "Savin Igor Yurievich"
+    },
+    "university": {
+      "en": "V.V. DOKUCHAEV SOIL SCIENCE INSTITUTE, RUDN UNIVERSITY",
+      "ru": "В.В. ДОКУЧАЕВСКИЙ ПОЧВЕННЫЙ ИНСТИТУТ РУДН",
+      "uz": "V.V. DOKUCHAEV NOMDAGI TURUQCHILIK INSTITUTI, RUDN UNIVERSITETI"
+    },
+    "country": {
+      "en": "Moscow, Russia",
+      "ru": "Москва, Россия",
+      "uz": "Moskva, Rossiya"
+    },
+    "degree": {
+      "en": "DSc, Academician",
+      "ru": "Д.С.Н, Академик",
+      "uz": "Q.X.F.D, Akademik"
+    },
+    "img": "/assets/img/Savin.jpg",
+    "toUrl": "https://www.rudn.ru/science/rudn-scientists/savin-igor-yurevich"
+  }
+]
